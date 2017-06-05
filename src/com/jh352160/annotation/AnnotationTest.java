@@ -1,5 +1,6 @@
-package com.jh352160;
+package com.jh352160.annotation;
 
+import com.jh352160.annotation.RunTimeTest;
 import com.jh352160.annotation.run_classInfo;
 import com.jh352160.annotation.run_fieldInfo;
 import com.jh352160.annotation.run_methodInfo;

@@ -1,8 +1,4 @@
-package com.jh352160;
-
-import com.jh352160.annotation.run_classInfo;
-import com.jh352160.annotation.run_fieldInfo;
-import com.jh352160.annotation.run_methodInfo;
+package com.jh352160.annotation;
 
 /**
  * Created by pcdalao on 2016/12/21.
